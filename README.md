@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Note : work in progress. Samples need to be made more clear. 
 
@@ -7,7 +7,8 @@ and reworked.
 
 Goal is to offer a set of samples for the different messaging scenarios in Azure IoT.
 
-![](./docs/Azure Message Patterns.png)
+![](https://github.com/ddewaele/azure-iot-java-samples/blob/master/docs/Azure%20Message%20Patterns.png)
+
 
 # Device perspective.
 
